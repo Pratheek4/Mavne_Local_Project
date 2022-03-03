@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-03T18:19:26 IST" name="Suite" finished-at="2022-03-03T18:19:26 IST" duration-ms="18">
+    <groups>
+    </groups>
+    <test started-at="2022-03-03T18:19:26 IST" name="Test" finished-at="2022-03-03T18:19:26 IST" duration-ms="18">
+      <class name="qaclickacademy.Selenium">
+        <test-method signature="Brave()[pri:0, instance:qaclickacademy.Selenium@43ee72e6]" started-at="2022-03-03T18:19:26 IST" name="Brave" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Brave -->
+        <test-method signature="Explorer()[pri:0, instance:qaclickacademy.Selenium@43ee72e6]" started-at="2022-03-03T18:19:26 IST" name="Explorer" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Explorer -->
+        <test-method signature="FireFox()[pri:0, instance:qaclickacademy.Selenium@43ee72e6]" started-at="2022-03-03T18:19:26 IST" name="FireFox" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FireFox -->
+        <test-method signature="Chrome()[pri:0, instance:qaclickacademy.Selenium@43ee72e6]" started-at="2022-03-03T18:19:26 IST" name="Chrome" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chrome -->
+      </class> <!-- qaclickacademy.Selenium -->
+      <class name="qaclickacademy.Appium">
+        <test-method signature="Android()[pri:0, instance:qaclickacademy.Appium@23f7d05d]" started-at="2022-03-03T18:19:26 IST" name="Android" finished-at="2022-03-03T18:19:26 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+        <test-method signature="Ios()[pri:0, instance:qaclickacademy.Appium@23f7d05d]" started-at="2022-03-03T18:19:26 IST" name="Ios" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ios -->
+        <test-method signature="Mobile()[pri:0, instance:qaclickacademy.Appium@23f7d05d]" started-at="2022-03-03T18:19:26 IST" name="Mobile" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobile -->
+        <test-method signature="Web()[pri:0, instance:qaclickacademy.Appium@23f7d05d]" started-at="2022-03-03T18:19:26 IST" name="Web" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Web -->
+      </class> <!-- qaclickacademy.Appium -->
+      <class name="qaclickacademy.RestApi">
+        <test-method signature="Post()[pri:0, instance:qaclickacademy.RestApi@23529fee]" started-at="2022-03-03T18:19:26 IST" name="Post" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+        <test-method signature="Get()[pri:0, instance:qaclickacademy.RestApi@23529fee]" started-at="2022-03-03T18:19:26 IST" name="Get" finished-at="2022-03-03T18:19:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Get -->
+      </class> <!-- qaclickacademy.RestApi -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
