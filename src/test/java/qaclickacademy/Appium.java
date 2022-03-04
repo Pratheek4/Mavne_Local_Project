@@ -10,6 +10,11 @@ public class Appium {
 	}
 	
 	@Test
+	public void Hybrid(){
+		System.out.println("Appium - Hybrid");
+	}
+	
+	@Test
 	public void Web() {
 		System.out.println("Appium - Web");
 	}
